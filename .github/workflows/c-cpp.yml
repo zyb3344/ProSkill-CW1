@@ -24,6 +24,9 @@ jobs:
     - name: Configure CMake
       run: cmake
 
+    - name: Change to build directory
+      run: cd build
+    
     - name: List current directory
       run: ls
 
