@@ -18,3 +18,10 @@ of the u and v vectors
 
 * Check that the simulation produces the mathematically correct answer when u = 0 and
 v = 0.
+
+# Installation 
+*C++ Compiler (e.g., GCC, Clang)
+
+*Make (for build automation)
+
+*Git (for version control)
