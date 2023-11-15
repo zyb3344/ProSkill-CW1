@@ -3,7 +3,7 @@
 
 
 # Gray-Scott Reaction-Diffusion Simulation
-#Description
+# Description
 develop basic documentation for building the very
 impressive software developed by this company. Our target audience is the group of new
 interns expected to join the company. Additionally,we are implementing a
