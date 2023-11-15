@@ -19,7 +19,7 @@ jobs:
       run: cd build
 
     - name: Configure CMake
-      run: cmake
+      run: cmake cw1
     
     - name: List current directory
       run: ls
