@@ -21,11 +21,11 @@ jobs:
     - name: Change to build directory
       run: cd build
 
-    - name: List current directory
-      run: ls
-
     - name: Configure CMake
       run: cmake
+
+    - name: List current directory
+      run: ls
 
     - name: Build project
       run: make
