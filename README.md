@@ -32,3 +32,13 @@ v = 0.
 ``` C
 git clone https://github.com/scicomp-durham/gray-scott-sim.git
 ```
+
+2. Navigate to the project directory:
+``` C
+cd gray-scott-sim
+```
+3. Build the project using Make:
+
+``` C
+make all 
+```
