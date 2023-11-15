@@ -4,14 +4,17 @@
 
 # Gray-Scott Reaction-Diffusion Simulation
 # Description
-develop basic documentation for building the very
+Develop basic documentation for building the very
 impressive software developed by this company. Our target audience is the group of new
-interns expected to join the company. Additionally,we are implementing a
+interns expected to join the company. Additionally, we are implementing a
 build system and continuous integration for the repository to ensure the interns cannot break
 it too badly. 
-we are simulation a Gray-scott reaction and implemting 3 test for the system.
+we are simulation a Gray-Scott reaction and implementing 3 tests for the system.
+
 * Check that the type of the model parameters (F, k) matches that of the element type
 of the u and v vectors
+
 * Check that the variables u and v are the same size
+
 * Check that the simulation produces the mathematically correct answer when u = 0 and
 v = 0.
