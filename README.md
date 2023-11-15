@@ -1,1 +1,2 @@
-# ProSkill-CW1
+# Gray-Scott Reaction-Diffusion Simulation
+# Description 
