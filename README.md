@@ -25,3 +25,7 @@ v = 0.
 *Make (for build automation)
 
 *Git (for version control)
+
+# Steps 
+
+1. Clone the repository: 
