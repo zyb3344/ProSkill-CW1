@@ -1,0 +1,3 @@
+/Users/balencicash/Documents/ProSkills/cw1/build/CMakeFiles/TestRun.dir
+/Users/balencicash/Documents/ProSkills/cw1/build/CMakeFiles/edit_cache.dir
+/Users/balencicash/Documents/ProSkills/cw1/build/CMakeFiles/rebuild_cache.dir
