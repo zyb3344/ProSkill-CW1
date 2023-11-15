@@ -15,14 +15,14 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v2
 
-    - name: List current directory
-      run: ls
-
     - name: Create build directory
       run: mkdir build
 
     - name: Change to build directory
       run: cd build
+
+    - name: List current directory
+      run: ls
 
     - name: Configure CMake
       run: cmake ..
