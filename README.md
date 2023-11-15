@@ -50,3 +50,13 @@ This project uses Acutest for unit testing. The tests cover various aspects of t
 * Type_check: Ensures the data types of simulation parameters are correct.
 * Size_check: Verifies that the simulation grids for different chemical species are of the same size
 * Answer_check: Checks if the simulation results stay within expected bounds.
+
+To run the test, use the following command line:
+
+``` C
+make test
+```
+
+# continuous integration 
+Continuous integration is set up using [Your CI tool], ensuring that every commit passes all tests and meets the coding standards.
+
