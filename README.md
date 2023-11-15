@@ -29,6 +29,6 @@ v = 0.
 # Steps 
 
 1. Clone the repository:
-```C
+``` C
 git clone https://github.com/scicomp-durham/gray-scott-sim.git
 ```
